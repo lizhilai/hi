@@ -141,11 +141,8 @@ var insertContextMenu = function() {
         var left = event.clientX
         var html = `
             <ul class="context-menu" style="display: block; position: absolute; top: ${top}px; left: ${left}px">
-                <li><a href="#">关于</a></li>
-                <li><a href="#">查看源码</a></li>
-                <li><a href="#">GitHub</a></li>
-                <li><a href="#">啊啊啊</a></li>
-                <li><a href="#">啊啊啊</a></li>
+                <li><a href="https://github.com/lizhilai/hi" target="_block">查看源码</a></li>
+                <li><a href="https://github.com/lizhilai/hi" target="_block">GitHub</a></li>
             </ul>
         `
         var body = get('body')
