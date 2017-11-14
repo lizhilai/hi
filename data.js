@@ -7,7 +7,7 @@ var chatData = {
     "002": {
         "title": "我要看代码",
         "question": "这个作品看起来不错啊，我想看看源码。",
-        "answer": ["谢谢夸奖！很荣幸！代码在github上放了一份，见笑了……", "<a href='https://github.com/lizhilai/lizhilai.github.io' target='_blank'>点这里看代码</a>", "有不足之处，欢迎批评指导！"]
+        "answer": ["谢谢夸奖！很荣幸！代码在github上放了一份，见笑了……", "<a href='https://github.com/lizhilai/hi' target='_blank'>点这里看代码</a>", "有不足之处，欢迎批评指导！"]
     },
     "003": {
         "title": "聊聊技术",
